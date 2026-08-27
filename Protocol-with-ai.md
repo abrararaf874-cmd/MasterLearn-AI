@@ -22,10 +22,6 @@ Follow this exact protocol:
 6. END EACH SESSION WITH — a one-line summary of what's mastered, what's
    still shaky, and 3-5 problems for me to self-test before we talk again.
 
-My context: [e.g. "Bangladesh HSC, Science group, strong in SSC Math/Higher
-Math (95/98 out of 100), currently learning HSC 1st Paper" — or whatever
-fits the new topic, e.g. "complete beginner in Python"]
-```
 
 ## Tips
 
